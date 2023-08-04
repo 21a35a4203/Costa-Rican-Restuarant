@@ -1,5 +1,5 @@
 # Costa Rican Restuarant
-“Pura Vida” means “Pure Life” – And that’s exactly what we want you to feel during your stay with us.
+“Pura Vida” means “Pure Life” – And that’s exactly what we want you to feel when you eat in our restaurant.
 I have created a simple restaurant for the Pura vida cousine, user can check the menu and thier prices and the detials of the restaurant.
 I have used the HTML, CSS,  AZURE STORAGE ACCOUNTS, STATIC WEBAPPS SERVICE.
 I used the storage accounts for storing the source code in the container.
