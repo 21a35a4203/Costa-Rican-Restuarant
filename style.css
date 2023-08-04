@@ -1,2 +1,187 @@
-body {background:#111;margin:0;padding:0}
-    canvas {background:#000;display:block;cursor: none}
+#main{
+  
+  width:100vw;
+  
+}
+.navbar{
+  width:100vw;
+  height:60px;
+  background-color:black;
+  display:block;
+  position:fixed;
+  top:0;
+  left:0;
+}
+#header{
+  font-family:cursive;
+  text-align:center;
+  display:block;
+  background-color:rgb(110,0,0);
+  color:beige
+}
+
+#title{
+  display:block;
+  padding-top:50px;
+}
+#subtitle{
+  font-size:30px;
+  
+}
+h1{
+  font-size:50px;
+}
+p{
+  
+}
+.navbar{
+  display:flex;
+  
+}
+.top-button{
+  width:100px;
+  height:56px;
+  background-color:black;
+  color:white;
+  text-align:center;
+  z-index:1;
+  position:fixed;
+  top:0;
+  left:0;
+  border:2px solid black
+  
+}
+.top-button:hover{
+  color:orange;
+  border-color:red;
+}
+.menu-button{
+  width:100px;
+  height:56px;
+  background-color:black;
+  color:white;
+  text-align:center;
+  z-index:0;
+  position:fixed;
+  top:0;
+  left:110px;
+  
+  border:2px solid black
+  
+}
+.menu-button:hover{
+  color:orange;
+  border-color:red;
+}
+.about-button{
+  width:100px;
+  height:56px;
+  background-color:black;
+  color:white;
+  text-align:center;
+  z-index:0;
+  position:fixed;
+  top:0;
+  left:220px;
+  
+  border:2px solid black
+  
+}
+.about-button:hover{
+  color:orange;
+  border-color:red;
+}
+body{
+  background-color:rgb(100,0,0);
+  font-family:cursive;
+}
+#image-container{
+  display:flex;
+}
+
+#restuarant-image{
+  display:block;
+  margin:0 auto;
+  width:700px;
+  border:3px solid black;
+  
+}
+
+
+#menu{
+  text-align:center;
+  color:beige;
+}
+#item-container{
+  display:flex;
+}
+.column{
+ padding-left:212px;
+  
+}
+#warning-advisory{
+  text-align:center;
+}
+footer{
+  background-color:rgb(110,0,0)
+    font-family:cursive;
+}
+#about{
+  width:50vw;
+  text-align:center;
+  display:block;
+  margin:0 auto;
+  color:beige;
+  padding-top:15px;
+}
+h3{
+  font-size:30px;
+}
+#form{
+  font-size:20px;
+  color:beige;
+  display:block;
+  margin:0 auto;
+  text-align:center;
+  padding-top:50px;
+}
+
+.container {
+   color:beige;
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+footer {
+ font-family: Arial, sans-serif;
+    padding: 10px;
+    border-top: 1px solid #ccc;
+    text-align: center;
+}
+
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.address {
+    flex-grow: 1;
+}
+
+.address p {
+    margin: 0;
+}
+
+.social-media a {
+    display: inline-block;
+    margin-left: 10px;
+   color:beige;
+}
+
+.social-media img {
+    width: 30px;
+    height: 30px;
+}
+
