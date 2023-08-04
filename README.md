@@ -1,7 +1,7 @@
-# coronagame
-This is a shooting game. The corona virus will attack the playere, the player need to shoot the virus to avoid the virus to attack.
-there is a health bar and score board.
-I have used the HTML, CSS, JS, AZURE STORAGE ACCOUNTS, STATIC WEBAPPS SERVICE.
+# Costa Rican Restuarant
+“Pura Vida” means “Pure Life” – And that’s exactly what we want you to feel during your stay with us.
+I have created a simple restaurant for the Pura vida cousine, user can check the menu and thier prices and the detials of the restaurant.
+I have used the HTML, CSS,  AZURE STORAGE ACCOUNTS, STATIC WEBAPPS SERVICE.
 I used the storage accounts for storing the source code in the container.
 I used the static webapp service to host the webpage
 
