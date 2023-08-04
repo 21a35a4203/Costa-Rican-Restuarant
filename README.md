@@ -5,7 +5,7 @@ I have used the HTML, CSS,  AZURE STORAGE ACCOUNTS, STATIC WEBAPPS SERVICE.
 I used the storage accounts for storing the source code in the container.
 I used the static webapp service to host the webpage
 
-Project demo : https://delightful-flower-04c31dd10.3.azurestaticapps.net
+Project demo : https://thankful-flower-021a50610.3.azurestaticapps.net
 
 Some of the screen shot taken while working on this project in azure.
 
@@ -14,14 +14,18 @@ Some of the screen shot taken while working on this project in azure.
 
 
 2.Creating the new container
-![image](https://github.com/21a35a4203/coronagame/assets/110958407/3ce3868d-ab1a-4d73-ac5c-a217fffa269a)
+![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/3f8c1f1e-a66e-4c36-877e-5bf9b3da7067)
+
 
 3. Uploading the source code to container
-![image](https://github.com/21a35a4203/coronagame/assets/110958407/7fb130d0-2d0f-49d0-948e-3b37c1cf3ee9)
+![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/36d69e22-857a-4c0b-ae01-3d4dfc08c93c)
+
 
 4.Creating the staitc web app
-![image](https://github.com/21a35a4203/coronagame/assets/110958407/8836a112-4794-4186-9a4e-dd3224da6640)
+![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/e065ae98-97ee-475f-a061-8cfc08412720)
+
 
 5. Successfully uploaded the webpage to azure
-![image](https://github.com/21a35a4203/coronagame/assets/110958407/6bc5de74-9fad-4412-8ce3-a5264d26ec6e)
+![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/94faec66-d57b-4f80-a96c-5a8bc800a03b)
+
 
