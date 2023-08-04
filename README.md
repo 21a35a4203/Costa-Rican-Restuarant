@@ -25,7 +25,7 @@ Some of the screen shot taken while working on this project in azure.
 ![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/e065ae98-97ee-475f-a061-8cfc08412720)
 
 
-5. Successfully uploaded the webpage to azure
+5. Successfully uploaded the webpage to azure and got the project link
 ![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/94faec66-d57b-4f80-a96c-5a8bc800a03b)
 
 
