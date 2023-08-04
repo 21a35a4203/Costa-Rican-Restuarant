@@ -10,7 +10,8 @@ Project demo : https://delightful-flower-04c31dd10.3.azurestaticapps.net
 Some of the screen shot taken while working on this project in azure.
 
 1.Creating the storage accounts
-![image](https://github.com/21a35a4203/coronagame/assets/110958407/3383977d-9856-405e-a169-de91ea4908cc)
+![image](https://github.com/21a35a4203/Costa-Rican-Restuarant/assets/110958407/0b5923da-aa6c-42ab-a161-6cac71dcd5b4)
+
 
 2.Creating the new container
 ![image](https://github.com/21a35a4203/coronagame/assets/110958407/3ce3868d-ab1a-4d73-ac5c-a217fffa269a)
